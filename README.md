@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anusha
-- 👀 I’m interested in ...Dancing, Draing and Cooking
+- 👀 I’m interested in ...Dancing, Drawing and Cooking
 - 🌱 I’m currently learning ...SRE- DevOps
 - 💞️ I’m looking to collaborate on ...ummm.......nothing
 - 📫 How to reach me ...just text me!
