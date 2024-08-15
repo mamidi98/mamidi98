@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Anusha
-- 👀 I’m interested in ...SRE Practices 
-- 💞️ I’m looking to collaborate on ... Creating new lab environments to test new works!
-- 📫 How to reach me ...just text me in SLACK!
+
+
 
 
 <!---
